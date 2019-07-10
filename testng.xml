@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="HeaderFooterTest">
+        <classes>
+            <class name="HeaderFooterTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="HomePageTest">
+        <classes>
+            <class name="HomePageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="ProductTourTest">
+        <classes>
+            <class name="ProductTourTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="AboutPageTest">
+        <classes>
+            <class name="AboutPageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="ResourcePageTest">
+        <classes>
+            <class name="ResourcePageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="BlogPageTest">
+        <classes>
+            <class name="BlogPageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="EventsPageTest">
+        <classes>
+            <class name="EventsPageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="CareersPageTest">
+        <classes>
+            <class name="CareersPageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="ContactUsTest">
+        <classes>
+            <class name="ContactUsTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="FAQPageTest">
+        <classes>
+            <class name="FAQPageTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="NewsPageTest">
+        <classes>
+            <class name="NewsPageTest"/>
+        </classes>
+    </test>
+</suite>
